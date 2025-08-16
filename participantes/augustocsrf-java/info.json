@@ -1,0 +1,10 @@
+{
+    "name": "Augusto Cezar Filho",
+    "social": ["https://github.com/Augustocsrf", ""],
+    "source-code-repo": "https://github.com/Augustocsrf/rinha-backend-2025-augusto",
+    "langs": ["java"],
+    "storages": ["mongoDB"],
+    "messaging": ["redis"],
+    "load-balancers": ["nginx"],
+    "other-technologies": []
+}
